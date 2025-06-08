@@ -1,0 +1,4 @@
+supabase
+openpyxl
+fpdf
+pandas
